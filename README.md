@@ -1,6 +1,4 @@
-# TejasAhuja_projects
-
-Employee Layoffs Analysis
+**Employee Layoffs Analysis**
 
 
 The project titled 'Employee Layoffs Analysis' is built using MYSql to extract Valuable Insights and findings to carefully examine the layoffs being made after the pandemic.
